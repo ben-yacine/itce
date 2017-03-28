@@ -1,0 +1,22 @@
+{
+  "name": "itce",
+  "version": "1.0.0",
+  "description": "Service nodejs for making call to the bank",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/ben-yacine/itce.git"
+  },
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/ben-yacine/itce/issues"
+  },
+  "homepage": "https://github.com/ben-yacine/itce#readme",
+  "dependencies": {
+    "request": "^2.81.0"
+  }
+}
